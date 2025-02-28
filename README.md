@@ -1,2 +1,5 @@
 # mu-to-svg
-PWA to convert PDF to SVG
+
+Convert PDF to SVG
+
+Derived from [pdf-to-svg](https://github.com/client-side-apps/pdf-to-svg)
